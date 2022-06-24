@@ -30,10 +30,10 @@ Azure Service, Static Web Apps
   ![image](https://user-images.githubusercontent.com/80918392/175552936-1ab01596-0f0e-499b-850d-3a4194143818.png)
 
   4. Screenshot of Contact Us page:
-  ![image](https://user-images.githubusercontent.com/80918392/175553223-ce739259-f90a-4daf-bfab-1a7fd4be56ab.png)
+  ![image](https://user-images.githubusercontent.com/80918392/175558995-7071760c-08ef-40cc-b92c-db2b52850d5e.png)
 
   5. Screenshot of Classes page:
-  ![image](https://user-images.githubusercontent.com/80918392/175553456-bc9651c5-96e9-4034-acb2-9794e35420d8.png)
+  ![image](https://user-images.githubusercontent.com/80918392/175559105-35e352df-82fe-41f4-877d-47c10dc86a63.png)
 
 # Link to the Website: 
 
