@@ -8,11 +8,11 @@ This is my final project submission for my Future Ready Talent Virtual Internshi
 
   ⁕ a fitness and health based website for Workout.
   
-  1. Our Solution:
-⁕ Healthy Workout opportunity, booking appointments and availing services are never this easy.
+  1. Our Solution :-
+  ⁕ Healthy Workout opportunity, booking appointments and availing services are never this easy.
 
-  2. About:
-⁕ This responsive website about workout is hosted and deployed on GitHub and Microsoft Azure. Our club encourages wellness by providing top-notch equipment,              first- class instructors, innovative classes, and qualified staff. Whatever your mood is…… We’ve got a Fitness Class for it! It's time for Fitness, Experience          the state of the art fitness! Our studio offers qualified coaches, tailor-made workouts, and the best atmosphere.
+  2. About :-
+  ⁕ This responsive website about workout is hosted and deployed on GitHub and Microsoft Azure. Our club encourages wellness by providing top-notch equipment,              first- class instructors, innovative classes, and qualified staff. Whatever your mood is…… We’ve got a Fitness Class for it! It's time for Fitness, Experience          the state of the art fitness! Our studio offers qualified coaches, tailor-made workouts, and the best atmosphere.
 
 
 # Technology Used:
