@@ -1,14 +1,4 @@
 @charset "UTF-8";
-/*
-Author: W3layouts
-Author URL: http://w3layouts.com
-*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -12333,8 +12323,7 @@ h2.pos {
   .w3l-team .teams1-content h2 {
     font-size: 30px;
     line-height: 45px; } }
-
-/*-- //about block 4 --*/
+    
 .w3l-newsletter {
   background: var(--primary-color); }
   .w3l-newsletter .title-big {
@@ -12594,4 +12583,3 @@ p.counter {
     font-size: 22px;
     line-height: 30px; } }
 
-/*# sourceMappingURL=style-starter.css.map */
