@@ -9891,13 +9891,7 @@ input:checked + .mode-container i.gg-moon {
   margin: 0;
   overflow: visible;
   clip: auto; }
-
-/*
-Linearicons Free v1.0.0 - https://linearicons.com/free
-By Perxis - https://perxis.com
-(c) 2014-2015 Perxis.com
-License: https://linearicons.com/free/license
-*/
+  
 @font-face {
   font-family: Linearicons-Free;
   src: url(https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot);
