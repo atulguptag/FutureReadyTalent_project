@@ -9892,12 +9892,6 @@ input:checked + .mode-container i.gg-moon {
   overflow: visible;
   clip: auto; }
 
-/*
-Linearicons Free v1.0.0 - https://linearicons.com/free
-By Perxis - https://perxis.com
-(c) 2014-2015 Perxis.com
-License: https://linearicons.com/free/license
-*/
 @font-face {
   font-family: Linearicons-Free;
   src: url(https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot);
@@ -12323,8 +12317,7 @@ h2.pos {
   .w3l-team .teams1-content h2 {
     font-size: 30px;
     line-height: 45px; } }
-
-/*-- //about block 4 --*/
+    
 .w3l-newsletter {
   background: var(--primary-color); }
   .w3l-newsletter .title-big {
@@ -12584,4 +12577,3 @@ p.counter {
     font-size: 22px;
     line-height: 30px; } }
 
-/*# sourceMappingURL=style-starter.css.map */
